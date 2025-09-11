@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fdecunta.com/publications/</loc>
-    <lastmod>2025-09-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fdecunta.com/</loc>
     <lastmod>2025-09-10T19:32:14-03:00</lastmod>
   </url><url>
@@ -12,6 +9,8 @@
     <lastmod>2025-09-10T19:32:14-03:00</lastmod>
   </url><url>
     <loc>https://fdecunta.com/categories/</loc>
+  </url><url>
+    <loc>https://fdecunta.com/publications/</loc>
   </url><url>
     <loc>https://fdecunta.com/tags/</loc>
   </url>
