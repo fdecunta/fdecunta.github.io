@@ -28,13 +28,6 @@ copyright = "&copy; Copyright 2025, Facundo Decunta"
     title = "Categories"
     url = "/categories/"
     weight = -90
-  [[menu.main]]
-    identifier = "publications"
-    name = "Publications"
-    title = "Publications"
-    url = "/publications/"
-    weight = -80
-
 
 # Configuration Features
 [params]
