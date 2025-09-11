@@ -1,7 +1,7 @@
 ---
 title: "Publications"
+date: "2025-09-11"
 draft: false
-type: "section"
 ---
 
 ### Publications

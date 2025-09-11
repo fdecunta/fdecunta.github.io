@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Facundo Decunta</title>
-    <link>http://localhost:1313/</link>
+    <link>https://fdecunta.com/</link>
     <description>Recent content in About on Facundo Decunta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2025, Facundo Decunta</copyright>
-    <lastBuildDate>Wed, 10 Sep 2025 19:32:14 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fdecunta.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://fdecunta.com/publications/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://fdecunta.com/publications/</guid>
+      <description>Publications Giachetti, V., Decunta, F.A., Druille, M., &amp;amp; Aguiar, M. (2025, under revision) Stronger fertile island patterns enhance plant facilitation in drylands, regardless of ecosystem fertility. Journal of Ecology.&#xA;Decunta, F. A., Gundel, P. E., &amp;amp; Bastías, D. A. (2025). An appraisal of the protection conferred by foliar Epichloë endophytes against root herbivores in plants: A meta-analysis. Fungal Biology Reviews, 52, 100428. https://doi.org/10.1016/j.fbr.2025.100428&#xA;Decunta, F. A., Pérez, L. I., Graff, P.</description>
+    </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://fdecunta.com/about/</link>
       <pubDate>Wed, 10 Sep 2025 19:32:14 -0300</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://fdecunta.com/about/</guid>
       <description>About I’m an environmental scientist and data scientist, currently pursuing a PhD in ecology. I am part of the Department of Quantitative Methods at the Faculty of Agronomy from the University of Buenos Aires, where I teach statistics.&#xA;PhD Candidate, Faculty of Agronomy, University of Buenos Aires (2021–present) BSc in Environmental Science, Faculty of Agronomy, University of Buenos Aires (2021) You can find my scientific work in my Google Scholar profile and some programming stuff in my GitHub.</description>
     </item>
   </channel>
