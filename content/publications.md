@@ -1,5 +1,6 @@
 +++
-title = "Publications"
+title = 'Publications'
+date = 2025-09-11T19:50:30-03:00
 draft = false
 +++
 
