@@ -28,12 +28,19 @@ copyright = "&copy; Copyright 2025, Facundo Decunta"
     title = "Categories"
     url = "/categories/"
     weight = -90
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    title = "Publications"
+    url = "/publications/"
+    weight = -80
+
 
 # Configuration Features
 [params]
   description = "Personal website"      # Your meta description of the site
   header_title = "Facundo Decunta"                 # Your header title
-  header_subtitle = "PhD candidate in ecology and data scientist" # Your header subtitle
+  header_subtitle = "PhD candidate in Ecology | Data Scientist" # Your header subtitle
   home_image = "/images/me.png"          # Path to header image starting from the static directory (optional)
   recent_posts = 5                           # Max amount of recent posts to show
   mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
@@ -59,3 +66,10 @@ copyright = "&copy; Copyright 2025, Facundo Decunta"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+
+# This is needed for quarto: https://quarto.org/docs/output-formats/hugo.html
+ignoreFiles = [ "\\.qmd$", "\\.ipynb$", "\\.py$" ]
+
+[markup.goldmark.renderer]
+unsafe= true

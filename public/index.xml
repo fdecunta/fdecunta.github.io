@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Facundo Decunta</title>
-    <link>http://localhost:39199/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in About on Facundo Decunta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2025, Facundo Decunta</copyright>
     <lastBuildDate>Wed, 10 Sep 2025 19:32:14 -0300</lastBuildDate>
-    <atom:link href="http://localhost:39199/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:39199/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 10 Sep 2025 19:32:14 -0300</pubDate>
-      <guid>http://localhost:39199/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>About I’m an environmental scientist and data scientist, currently pursuing a PhD in ecology. I am part of the Department of Quantitative Methods at the Faculty of Agronomy from the University of Buenos Aires, where I teach statistics.&#xA;PhD Candidate, Faculty of Agronomy, University of Buenos Aires (2021–present) BSc in Environmental Science, Faculty of Agronomy, University of Buenos Aires (2021) You can find my scientific work in my Google Scholar profile and some programming stuff in my GitHub.</description>
     </item>
   </channel>
