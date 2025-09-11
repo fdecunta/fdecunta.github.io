@@ -84,14 +84,16 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
-      - name: Add CNAME
-        run: echo "fdecunta.com" > ./public/CNAME
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v4
         with:
           path: ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
+
+      - name: Add CNAME
+        run: echo "fdecunta.com" > ./public/CNAME
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
