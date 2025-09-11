@@ -32,7 +32,7 @@ copyright = "&copy; Copyright 2025, Facundo Decunta"
     identifier = "publications"
     name = "Publications"
     title = "Publications"
-    url = "/publications"
+    url = "/publications/papers"
     weight = -80
 
 
